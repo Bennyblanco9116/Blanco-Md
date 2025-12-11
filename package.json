@@ -1,7 +1,7 @@
 {
   "name": "gifted-md",
   "version": "5.0.0",
-  "description": "Gifted-Md, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
+  "description": "Blanco-Md, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
   "engines": {
@@ -14,11 +14,11 @@
     "restart": "pm2 restart giftedmd"
   },
   "keywords": [
-    "gifted-md",
+    "blanco-md",
     "whatsapp-bot",
-    "giftedtech"
+    "blancotech"
   ],
-  "author": "GiftedTech",
+  "author": "BlancoTech",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
